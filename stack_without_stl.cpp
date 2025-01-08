@@ -37,7 +37,6 @@ class stack_using_vector{
     bool empty(){
         return top == -1;
     }
-    
 };
 int main(){
     return 0;
