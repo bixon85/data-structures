@@ -51,7 +51,6 @@ public:
             rear++;
         }
     }
-
     int dequeue() {
         if(qfront == rear) {
             return -1;
