@@ -1,0 +1,6 @@
+with using the array
+first array
+next the size of that array
+front and rare on this i can decide that is the queue is full or not
+and pop hamesha front se hota hai
+
