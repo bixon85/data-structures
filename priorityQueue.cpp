@@ -7,6 +7,7 @@
 using namespace std;
 int main() {
     priority_queue<int> p;
+    p.push(4);// this function push back the an element
     
     return 0;
 }
